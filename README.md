@@ -44,3 +44,6 @@
 - https://pyserial.readthedocs.io/en/latest/
 - https://colab.research.google.com/drive/1Cm9esTDH1Jn0DR4apQngvqZ2JDFfgNm1
 
+# Video 
+Link: https://youtube.com/shorts/NWoIarIDn0U?feature=share
+
